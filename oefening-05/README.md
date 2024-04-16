@@ -20,3 +20,5 @@ Tijdens dit labo leer je
 2. Gebruik de endpoint /top-headlines.
 3. Voeg een X-Api-Key header toe met je API-sleutel.
 4. Voer het verzoek uit en bekijk de respons.
+{"status":"ok","totalResults":35,"articles":[{"source":{"id":"the-washington-post","name":"The Washington
+Post"}
